@@ -1,0 +1,6 @@
+{
+  "name": "BCA Study Planner & Online Examination System",
+  "description": "Comprehensive academic study planner, daily & weekly timetable, interactive online examination system, and administrative portal for BCA students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
